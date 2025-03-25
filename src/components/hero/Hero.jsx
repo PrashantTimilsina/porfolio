@@ -9,12 +9,7 @@ function Hero() {
     <div className="-mt-8 sm:mt-16">
       <div>
         <p className="mt-4 p-6 text-xl font-medium leading-10 tracking-wide text-[#64748b] sm:p-3 sm:text-2xl">
-          Hello! I'm Prashant Timilsina, a passionate frontend developer
-          specializing in React.js. As a beginner, I enjoy crafting
-          user-friendly interfaces and bringing creative ideas to life on the
-          web. I'm dedicated to learning, growing, and building modern,
-          responsive websites that deliver great user experiences. Welcome to my
-          portfolio!
+          Hello! I'm Prashant Timilsina, a passionate Full Stack Developer with expertise in React.js, Express.js, MongoDB, and more. I focus on creating seamless, responsive web applications from the front-end to the back-end. I'm dedicated to building modern, scalable solutions that provide exceptional user experiences. Welcome to my portfolio!
         </p>
       </div>
       <div className="ml-14 mt-2 flex items-center justify-start space-x-7 sm:mt-16 md:mr-7 md:p-7">
