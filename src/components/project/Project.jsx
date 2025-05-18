@@ -29,7 +29,7 @@ const projects = [
   },
   {
     name: "Movies",
-    URL: "https://movies-seven-steel.vercel.app/",
+    URL: "https://cinepeak.netlify.app/",
     image:
       "https://i.pinimg.com/736x/aa/f7/05/aaf705e06726ce3881288ae4be3ac5fe.jpg",
     text: "Discover trending movies and reviews",
